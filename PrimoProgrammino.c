@@ -38,6 +38,7 @@ do
   c=c+1;        
 }
 while(c!=n);
+printf("\n________________________________________________________________________________");
 printf("\n I numeri maggiori di x sono: %d",mag);
 printf("\n I numeri minori di x sono: %d",min);
 printf("\n I numeri uguali a x sono: %d",ug);

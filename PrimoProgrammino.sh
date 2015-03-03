@@ -29,7 +29,7 @@ do
 		fi
 	fi
 done
-
+	echo "__________________________________________________________"
 	echo "I numeri maggiori sono $mag"
 	echo "I numeri minori sono $min"
 	echo "I numeri uguali sono $ug"
